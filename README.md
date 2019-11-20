@@ -22,4 +22,4 @@ php artisan db:seed
 php artisan serve
 
 <b>A aplicação estará disponivel no endereço<br>
- [http://localhost:8080/home]
+ [http://localhost:8080/home](http://localhost:8080/home)
