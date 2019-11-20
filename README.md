@@ -9,5 +9,17 @@ API RESTful de uma agenda com as seguintes tecnologias PHP + LARAVEL.
 + Validar os campos nos forms. 
 + Permitir excluir um contato. 
 
-<h5>Baixa dependencias</h5>
+<h4>Baixa dependencias:</h4>
 composer install
+
+<h4>Rodar migrations:</h4>
+php artisan migrate
+
+<h4>Popular banco com uma massa de 10 cadastros:</h4>
+php artisan db:seed
+
+<h4>Subir aplicação</h4>
+php artisan serve
+
+<b>A aplicação estará disponivel no endereço<b>
+ localhost:8000
