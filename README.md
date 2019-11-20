@@ -21,5 +21,6 @@ php artisan db:seed
 <h4>Subir aplicação</h4>
 php artisan serve
 
+<br>
 <b>A aplicação estará disponivel no endereço<br>
- [http://localhost:8080/home](http://localhost:8080/home)
+ [http://localhost:8000/api/agenda](http://localhost:8000/api/agenda)
