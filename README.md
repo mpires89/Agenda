@@ -9,5 +9,5 @@ API RESTful de uma agenda com as seguintes tecnologias PHP + LARAVEL.
 + Validar os campos nos forms. 
 + Permitir excluir um contato. 
 
-<h1>Baixa dependencias</h1>
+<h5>Baixa dependencias</h5>
 composer install
