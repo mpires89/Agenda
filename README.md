@@ -23,4 +23,4 @@ php artisan serve
 
 <br>
 <b>A aplicação estará disponivel no endereço<br>
- [http://localhost:8000/api/agenda](http://localhost:8000/api/agenda/)
+ [localHost:8000/api/agenda](http://localhost:8000/api/agenda/)
